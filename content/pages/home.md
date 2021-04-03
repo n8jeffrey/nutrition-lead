@@ -1,9 +1,10 @@
 ---
 template: HomePage
-slug: ''
-title: Yellowcake
-featuredImage: 'https://ucarecdn.com/159203d3-881d-4218-baa1-ca4427b48d0d/'
-subtitle: ' Welcome to the ultimate Gatsby and Netlify starter project.'
+slug: ""
+title: Get Nutrition Help
+featuredImage: https://ucarecdn.com/c45ee489-ba05-410a-8391-740ae5786c51/
+subtitle: Get in touch with a dietitians and get a plan that's right for your
+  body.  It may even be covered by your insurance provider!
 meta:
   description: This is a meta description.
   title: The Ultimate Gatsby Starter
