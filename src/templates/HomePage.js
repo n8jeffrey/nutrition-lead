@@ -4,6 +4,9 @@ import { graphql } from 'gatsby'
 import PageHeader from '../components/PageHeader'
 import Content from '../components/Content'
 import Layout from '../components/Layout'
+import FormSection from '../components/FormSection'
+import QuoteSection from '../components/QuoteSection'
+import PostTeaserSection from '../components/PostTeaserSection'
 
 // Export Template for use in CMS preview
 export const HomePageTemplate = ({ title, subtitle, featuredImage, body }) => (
@@ -14,9 +17,12 @@ export const HomePageTemplate = ({ title, subtitle, featuredImage, body }) => (
       subtitle={subtitle}
       backgroundImage={featuredImage}
     />
+    <FormSection />
+    <QuoteSection quote='"Doing nutrition the right way was easier than I thought. It changed my life."'/>
 
     <section className="section">
-      <div className="container">
+      <div className="container half-container">
+        
         <Content source={body} />
       </div>
     </section>

@@ -1,0 +1,11 @@
+.quote-header {
+    align-items: center;
+    background-color: rgba(15, 125, 0, 0.3);
+    display: flex;
+    justify-content: center;
+    min-height: 150px;
+}
+.quote-header h3 {
+    color: white;
+    font-size: 2rem;
+}

@@ -1,0 +1,32 @@
+#contact {
+    display: grid;
+    grid-template-columns: 50% 50%;
+    margin: 75px auto;
+    max-width: 1111px;
+    width: 90%;  
+}
+.form-section {
+    margin: auto;
+    width: 80%;
+}
+.field {
+    display: flex;
+    flex-direction: column;
+}
+ul.actions li {
+    list-style: none;
+}
+ul.actions {
+    margin: 25px 0px;
+    padding: 0px;
+}
+
+@media (max-width: 768px) {
+    #contact {
+        grid-template-columns: 100%;
+    }
+    .text-section {
+        width: 80%;
+        margin: auto;
+    }
+}
