@@ -1,0 +1,21 @@
+.faq-section {
+    display: grid;
+    grid-template-columns: 50% 50%;
+    margin: auto;
+    max-width: 1111px;
+    width: 90%;
+}
+.image-section img {
+    align-items: center;
+    display: flex;
+    width: 70%;
+}
+.image-section {
+    display: flex;
+}
+
+@media (max-width: 768px) {
+    .faq-section {
+        grid-template-columns: 100%;
+    }
+}

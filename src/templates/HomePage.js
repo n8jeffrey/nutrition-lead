@@ -6,7 +6,10 @@ import Content from '../components/Content'
 import Layout from '../components/Layout'
 import FormSection from '../components/FormSection'
 import QuoteSection from '../components/QuoteSection'
-import PostTeaserSection from '../components/PostTeaserSection'
+import dietImage from '../../static/images/diet.svg'
+import BodySection from '../components/BodySection'
+import PostSection from '../components/PostSection'
+import Favorites from '../components/Favorites'
 
 // Export Template for use in CMS preview
 export const HomePageTemplate = ({ title, subtitle, featuredImage, body }) => (
@@ -22,10 +25,10 @@ export const HomePageTemplate = ({ title, subtitle, featuredImage, body }) => (
 
     <section className="section">
       <div className="container half-container">
-        
-        <Content source={body} />
+        <BodySection body={body} backgroundImage={dietImage} title='image of dietitian'/>
       </div>
     </section>
+    <Favorites />
   </main>
 )
 

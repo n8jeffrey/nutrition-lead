@@ -4,6 +4,7 @@
     display: flex;
     justify-content: center;
     min-height: 150px;
+    margin-bottom: 50px;
 }
 .quote-header h3 {
     color: white;

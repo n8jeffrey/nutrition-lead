@@ -1,0 +1,16 @@
+.favorite-section {
+    margin: 50px auto;
+}
+
+.favorite-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 5%;
+    margin: 75px auto;
+}
+
+.resource-button {
+    margin: auto;
+    text-align: center;
+    margin-bottom: 100px;
+}
