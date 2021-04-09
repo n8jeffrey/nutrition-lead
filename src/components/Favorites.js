@@ -1,7 +1,7 @@
 import React from 'react'
 import './Favorites.css'
 import PostCard from './PostCard'
-import weightLoss from '../../public/images/weight-loss.jpg'
+import weightLoss from '../../static/images/diet.svg'
 import { Link } from 'react-feather'
 
 const Favorites = (props) => (
