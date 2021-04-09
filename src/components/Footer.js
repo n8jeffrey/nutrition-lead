@@ -4,8 +4,7 @@ import './Footer.css'
 export default () => (
   <div>
     <h2 className="taCenter">
-      Follow us{' '}
-      <a href="https://instagram.com/thrivegoldcoast/">@thrivegoldcoast</a>
+      <a href="https://halifaxnutrition.com/#contact">Get In Touch With Us.</a>
     </h2>
     <br />
     <footer className="footer">

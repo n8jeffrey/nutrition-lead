@@ -5,7 +5,7 @@
 }
 
 .PageHeader .BackgroundImage {
-  opacity: 0.8;
+  opacity: 0.6;
 }
 
 .PageHeader-large {
@@ -20,6 +20,7 @@
 .PageHeader--Subtitle {
   font-weight: 400;
   font-size: 1.8rem;
+  width: 60%;
 }
 
 .PageHeader .container {
@@ -47,5 +48,8 @@
   }
   .PageHeader-large {
     padding: 12.5rem 0;
+  }
+  .PageHeader--Subtitle {
+    width: 100%;
   }
 }

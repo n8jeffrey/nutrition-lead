@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500&display=swap');
+
 :root {
   --primary: #00c2bd;
   --secondary: #000;
@@ -6,7 +8,7 @@
   --darkGrey: #272727;
   --danger: #ff3d3d;
   --font-primary: 'Open Sans', sans-serif;
-  --font-system: system-ui; /* postcssPresetEnv */
+  --font-system: 'Playfair Display', sans-serif;
   --borderRadius: 3px;
 }
 
@@ -25,6 +27,13 @@
 ::selection {
   background: rgba(0, 194, 189, 0.6);
 }
+
+input {
+  border: none;
+  border-bottom: 1px solid black;
+  margin-bottom: 20px;
+}
+
 
 html {
   box-sizing: border-box;
