@@ -6,6 +6,8 @@ date: 2021-04-08
 featuredImage: https://ucarecdn.com/ef67c6cc-5486-45b9-a31a-78779b64abce/
 excerpt: Going all in on nutrition changes isn't always a good thing. For most
   people, it may not be good at all.
+categories:
+  - category: Updates
 meta:
   title: Making Drastic Changes To Your Nutrition Might Not Be Good.
   description: When making changes in our lives with respect to nutrition, most
