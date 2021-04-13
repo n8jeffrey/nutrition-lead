@@ -1,32 +1,22 @@
 ---
 template: HomePage
 slug: ""
-title: Get Nutrition Help
+title: Get Nutrition Help - Fast
 featuredImage: https://ucarecdn.com/c45ee489-ba05-410a-8391-740ae5786c51/
-subtitle: Get in touch with a dietitians and get a plan that's right for your
-  body.  It may even be covered by your insurance provider!
+subtitle: Finding a Registered Dietitian that you (and your insurance company)
+  can trust takes months in Nova Scotia. Our goal is to match you with the right
+  Dietitian for your needs as fast as possible.
 meta:
   description: The Halifax hub for connecting you with Nutrition experts. Healthy
     Eating starts here.
   title: Halifax Nutrition
 ---
+## What Does a Dietitian Do?
 
-Yellowcake is an opinionated starter project created by [Thrive Digital](https://thriveweb.com.au/) a [Gold Coast Web Design](https://thriveweb.com.au/) studio. to help you create lightning fast websites with [Gatsby](https://gatsbyjs.org) and [Netlify CMS](https://netlifycms.org).
+Dietitians are one of only a few regulated healthcare professionals in the Nutrition sector in Canada. In Halifax specifically, Dietitians are experts in many different areas. The role of a Dietitian can extend from designing meal plans to consulting with doctors on challenging cases.
 
-View the [project overview](https://thriveweb.com.au/the-lab/yellowcake-gatsby-react-js-starter-project/) and the [docs](https://github.com/thriveweb/yellowcake/blob/master/README.md).
+### Can a Dietitian Help Me Lose Weight?
 
-# Features
+This is one of the most common questions that people ask Dietitians and the answer is YES - absolutely! If you're looking to lose weight, the right dietitian is going to help you lose it and keep it off by adjusting your habits and focusing on the long term.
 
-- **[Gatsby](https://gatsbyjs.org)** static site generator
-- **[Netlify CMS](https://github.com/netlify/netlify-cms)** for content management
-- Dynamic menus and forms
-- **[Mailchimp](http://mailchimp.com)** and **[Uploadcare](https://uploadcare.com)** integrations
-- Fully responsive layout for mobile and widescreen browsing
-- Blog searching and paging functionality
-- Seamless image and content sliders
-
-## Get started
-
-View the [Netlify CMS Docs](https://www.netlifycms.org/docs/) and the [Netlify CMS Repo](https://github.com/netlify/netlify-cms).
-
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/thriveweb/yellowcake&stack=cms)
+[Find the right Dietitian for you!](#contact)
