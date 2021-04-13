@@ -11,7 +11,7 @@ const Favorites = (props) => (
         <div className='favorite-grid'>
             <PostCard 
                 slug='/lose-weight' 
-                title='How To Lose It'
+                title='Why Losing Weight Quickly Might Be Horrible For You'
                 featuredImage={weightLoss}
                 excerpt='This is the bit of information we wanted to show about this specific article.'/>
             <PostCard 
