@@ -19,7 +19,8 @@ const FormSection = (props) => (
                 </p>
                 <h3>Talk to a Dietitian today</h3>
                 <p>
-                    If you're ready to take the next step, there is no better time to start than today. Fill out the form and we'll be in touch shockingly fast.
+                    If you're ready to take the next step, there is no better time to start than today. 
+                    Fill out the form and we'll be in touch shockingly fast.
                     
                 </p>
             </section>
