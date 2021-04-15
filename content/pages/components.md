@@ -1,16 +1,24 @@
 ---
 template: ComponentsPage
 slug: our-mission
-title: Components Page
-featuredImage: https://ucarecdn.com/df0dc650-6938-412f-aefb-2019d2349e13/
-subtitle: This is the components page subtitle.
+title: Our Mission
+featuredImage: https://ucarecdn.com/3de74ebc-55cd-42e9-b809-0122c062f2c9/
+subtitle: We're trying to connect you with the right Nutrition expert in Nova
+  Scotia when you need help the most.
 section1: >-
-  ## This is a container component
-
-  A sem vel nec sodales mi vivamus senectus sed potenti a parturient nascetur tincidunt nisi pulvinar rhoncus a. Risus imperdiet taciti suspendisse facilisi a per metus cubilia varius a nostra adipiscing amet ultrices quisque ac mi a.
+  ## Getting Nutrition Help When You Need It.
 
 
-  [Dictumst a ultrices mi]() a dignissim ad fermentum eget a nam et a blandit scelerisque. Taciti lorem tempor quam vestibulum dis habitasse vestibulum diam vel est ut proin dis auctor. Suscipit sceler isque orci magna interdum vel bibendum duis netus a consectetur dui magnis ac aliquet sem posuere tincidunt vestibulum.
+  Making Nutrition changes to your lifestyle can be some of the hardest changes you ever make. [Harvard](https://www.health.harvard.edu/newsletter_article/why-its-hard-to-change-unhealthy-behavior-and-why-you-should-keep-trying) states that making healthy changes are not a straight-forward task, they're made even hard if trying to make those changes all on your own.
+
+
+  When people decide to make drastic changes to their lifestyle, it's often a big deal for anyone involved. Even with the internet, finding the right information is easy enough but implementing those changes in a way that will stick is next to impossible on your own. [Research ](https://newsroom.ucla.edu/releases/Dieting-Does-Not-Work-UCLA-Researchers-7832#:~:text=People%20on%20diets%20typically%20lose,be%20significantly%20higher%2C%20they%20said.)states that only 5-10% of people dieting succeed at losing their goal weight on their own.
+
+
+  ### We're Connecting Dietitians To The People Who Need Nutrition Help.
+
+
+  We want people who are looking to make a change to be as successful as possible, and that means we need to make it easy to talk to an expert.
 section2: >-
   ## You can use videos, images and text.
 
@@ -39,6 +47,7 @@ gallery:
     image: https://ucarecdn.com/83485d70-1552-4c97-b237-22330fb56a1e/
     title: Yellow Ice Cream
 meta:
-  description: This is a meta description.
-  title: Components Page
+  description: We're connecting Nutrition Experts with people who need them the
+    most all around Nova Scotia.
+  title: HFX Nutrition Mission
 ---
