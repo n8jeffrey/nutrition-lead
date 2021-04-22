@@ -30,7 +30,7 @@ const PageHeader = ({
           <Content className="PageHeader--Subtitle" src={subtitle} />
         )}
         <div className='button-div'>         
-          <a href='#cta-section' className='banner-button'>Get Help Now</a>
+          <a href='#contact' className='banner-button'>Get Help Now</a>
           
 </div>
 

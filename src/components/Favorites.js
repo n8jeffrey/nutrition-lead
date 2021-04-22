@@ -13,7 +13,7 @@ const Favorites = (props) => (
         <h3>Check out these nutrition resources</h3>
         <div className='favorite-grid'>
             <PostCard 
-                slug='/lose-weight' 
+                slug='/posts/how-to-keep-the-weight-off/' 
                 title='How To Keep The Weight Off'
                 featuredImage={pineappleImage}
                 excerpt='Losing weight is only one part of becoming a healthier person. Keeping the weight off is often the greater challenge for most of us. Here are a few tips on how to keep it off.'/>

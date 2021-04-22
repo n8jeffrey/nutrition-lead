@@ -11,7 +11,7 @@ export default () => (
       <div className="container taCenter">
         <span>
           © Copyright {new Date().getFullYear()} All rights reserved. Crafted by{' '}
-          <a href="https://n8jeffrey,dev/">n8te</a>.
+          <a href="#">in8te designs</a>.
         </span>
       </div>
     </footer>
