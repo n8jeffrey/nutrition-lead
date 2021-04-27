@@ -2,7 +2,7 @@ import React from 'react'
 import './Form.css'
 
 const Form = (props) => (
-                <form name="contact" method="post" action="/success/" data-netlify="true" data-netlify-honeypot="bot-field">
+                <form name="contact" method="post" action="halifaxnutrition.com/success" data-netlify="true" data-netlify-honeypot="bot-field">
 
                     <input type="hidden" name="bot-field" />
 
