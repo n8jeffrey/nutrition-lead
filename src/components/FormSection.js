@@ -1,7 +1,6 @@
 import React from 'react'
 import './FormSection.css'
 import Form from '../components/Form'
-import FormAjax from '../components/FormSimpleAjax'
 
 const FormSection = (props) => (
     <section id="contact">
@@ -27,7 +26,6 @@ const FormSection = (props) => (
             </section>
             <section className='form-section'>
                 <Form />
-                <FormAjax />
             </section>
     </section>
 )

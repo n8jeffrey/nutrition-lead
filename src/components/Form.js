@@ -23,16 +23,17 @@ const Form = (props) => (
                             required
                         >
                             <option disabled hidden>
-                            Type of Enquiry
+                            Type of Nutrition Help Needed
                             </option>
-                            <option>Need to know more</option>
-                            <option>Found a bug</option>
-                            <option>Want to say hello</option>
+                            <option>Weight/Strength Gains</option>
+                            <option>Weightloss</option>
+                            <option>Chronic Illness Management</option>
+                            <option>Diabetes Management</option>
                         </select>
                     </label>
                     </div>
                     <div className="field">
-                        <label htmlFor="message">Comments</label>
+                        <label htmlFor="message">Message</label>
                         <textarea name="message" id="message" rows="6" required></textarea>
                     </div>
                     <ul className="actions">
