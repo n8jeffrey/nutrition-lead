@@ -67,7 +67,7 @@ class Form extends React.Component {
           action={action}
           onSubmit={this.handleSubmit}
           data-netlify="true"
-          data-netlify-recaptcha="true"
+          netlify-honeypot="bot-field"
         >
           {this.state.alert && (
             <div className="Form--Alert">{this.state.alert}</div>
@@ -93,6 +93,9 @@ class Form extends React.Component {
               />
               <span>Lastname</span>
             </label>
+            <p class="hidden">
+    <label>Don’t fill this out if you’re human: <input name="bot-field" /></label>
+  </p>
           </div>
           <fieldset>
             <label className="Form--Label Form--Radio">
