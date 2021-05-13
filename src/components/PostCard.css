@@ -35,3 +35,10 @@
   line-height: 1;
   margin: 0.5em 0;
 }
+
+@media(max-width: 991px) {
+  .PostCard {
+    max-width: 400px;
+    margin: auto;
+  }
+}

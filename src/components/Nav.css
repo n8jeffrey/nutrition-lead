@@ -140,7 +140,9 @@
   .Nav .Logo {
     z-index: 1;
   }
-
+  .site-title a {
+    font-size: 2rem;
+  }
   .Nav--Links {
     display: none;
     align-items: center;

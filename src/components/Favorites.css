@@ -26,3 +26,12 @@
 .resource-button button:hover {
     background-color: white;
 }
+
+@media (max-width: 991px){
+    .favorite-grid {
+        grid-template-columns: 1fr;
+    }
+    .resource-button {
+        margin-top: 150px;
+    }
+}
