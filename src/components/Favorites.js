@@ -18,15 +18,15 @@ const Favorites = (props) => (
                 featuredImage={pineappleImage}
                 excerpt='Losing weight is only one part of becoming a healthier person. Keeping the weight off is often the greater challenge for most of us. Here are a few tips on how to keep it off.'/>
             <PostCard 
-                slug='/lose-weight' 
-                title='What is the Difference Between a Dietitian and a Nutritionist?'
+                slug='/long-term-weightloss' 
+                title='Best practices for Long Term Weightloss'
                 featuredImage={fruitImage}
-                excerpt='In some parts of the world those two roles are the same. But there is one very important difference you should know about.'/>  
+                excerpt='There is a new piece of tech or fad that promises a quick fix coming to marker on a monthly basis. Here is what you need to know to avoid failure in your weightloss efforts.'/>  
             <PostCard 
-                slug='/lose-weight' 
-                title='What is the Best Diet to Lose Weight?'
+                slug='/halifax-dietitians' 
+                title='Who are the Best Dietitians in Halifax?'
                 featuredImage={hotdogImage}
-                excerpt='There are so many diets out there, but which one is right for you goals?'/>
+                excerpt="In the age of influencers, it's easy to fall for fame over effectiveness. Click here to learn how to pick the right Dietitian for your needs."/>
         </div>
         <div className='resource-button'>
             <button href='/'>See More Resources</button>
